@@ -8,6 +8,8 @@ cd SocialBox
 chmod +x SocialBox.sh
 .\SocialBox.sh
 ```
+# note
+* you need root access
 # Screenshots :
 ![Test Image 8](https://raw.githubusercontent.com/TunisianEagles/SocialBox/master/Screenshots/sb.png)
 
